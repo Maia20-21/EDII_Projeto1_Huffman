@@ -1,11 +1,10 @@
 /*
  * Projeto 1 | Compressão de Arquivos com o Algoritmo de Huffman
- * Prof. Dr. Jean M. Laine
- * Turma 04N
+ * Turma 04G
  *
  * Bruna Amorim Maia (RA 10431883)
- * Rafael Araujo Cabral Moreira (RA 10441919)
- * Rute Willemann (RA 10436781)
+ * Sofia de Oliveira Cavalcanti (RA 10723361)
+ * Vinícius Pereira Rodrigues (RA 10729470)
  */
 
 // MinHeap.java
